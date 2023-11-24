@@ -1,7 +1,7 @@
 # Python - Beginner to Advanced 🚀
 
 <div align="center">
-  <img src="https://e7.pngegg.com/pngimages/761/45/png-clipart-professional-python-programmer-computer-programming-android-android-blue-logo.png" alt="Python Logo">
+  <img src="https://logowik.com/content/uploads/images/python.jpg" alt="Python Logo">
 </div>
 
 Welcome to the "Python- Beginner to Advanced" repository! 🐍✨
