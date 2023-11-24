@@ -57,4 +57,4 @@ Feel free to explore the code files and accompanying notes for each session. The
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Python-Beginner-to-Advanced.git
+   git clone https://github.com/Syed-Abid/Python-Beginner-to-Advanced.git
